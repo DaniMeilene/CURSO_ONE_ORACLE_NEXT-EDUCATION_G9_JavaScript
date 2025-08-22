@@ -1,0 +1,42 @@
+JOGO DO NÚMERO SECRETO - um clássico! 🎲
+
+Projeto desenvolvido em JavaScript durante o curso ONE Oracle Next Education (Turma G9).
+
+📖 Sobre o projeto:
+
+Um jogo simples de adivinhação, onde o usuário precisa descobrir o número secreto gerado aleatoriamente pelo programa.
+Além da diversão, esse projeto me ajudou a dar meus primeiros passos com JavaScript e praticar lógica de programação.
+
+🚀 Tecnologias utilizadas:
+
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+🧩 O que aprendi:
+
+Durante a construção deste projeto, aprendi:
+- A história do JavaScript e sua importância para a web.
+- Como criar variáveis para armazenar informações, uso do operador ternário, if-else, math-Randon().
+- A importância das funções para organizar o código.
+- O uso de listas/arrays para guardar e manipular dados.
+- Aplicar lógica de programação para resolver problemas.
+
+🎮 Como jogar:
+
+Clone este repositório: git clone https://github.com/DaniMeilene/CURSO_ONE_ORACLE_NEXT-EDUCATION_G9_JavaScript.git
+Abra o arquivo index.html em seu navegador.
+Digite seu palpite e veja se acerta o número secreto!
+
+📌 Próximos passos:
+
+- Melhorar a interface gráfica.
+- Adicionar contador de tentativas.
+- Criar níveis de dificuldade (fácil, médio, difícil).
+
+👩‍💻 Autora:
+
+Danielli Arcari
+
+LinkedIn: danielli-arcari-frontEnd
+GitHub: https://github.com/DaniMeilene
